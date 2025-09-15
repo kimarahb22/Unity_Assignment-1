@@ -1,4 +1,3 @@
-Here’s a polished GitHub README for your Unity project:
 
 ---
 
